@@ -8,6 +8,8 @@ I'm Jenny and I'm a Junior Web Developer.
 
 
 ## My favorite technologies (for now)
+- Php / Symfony
+- Javascript
 
 ## I can work with it
 - C#
