@@ -8,12 +8,21 @@ I'm Jenny and I'm a Junior Web Developer.
 
 
 ## My favorite technologies (for now)
-- Php / Symfony
+- Php / Symfony / phpMyAdmin
 - Javascript
 
 ## I can work with it
 - C#
-- CSS
+- Html/CSS
+- SqlServer
+
+## Learning Process
+- C#
+- .Net /ASP
+- Angular
+- React
+- NodeJs
+- Drupal
 <!--
 **Dj3ni/Dj3ni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
