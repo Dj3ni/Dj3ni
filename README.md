@@ -31,8 +31,8 @@ I'm Jenny and I'm a Junior Web Developer.
 
 ## 🌐 Socials and Websites:
 📧 Reach me: 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jenny-fernandez-garcia/) 
-[mail](dj3n.dev@gmail.com)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jenny-fernandez-garcia/) 
+- [mail](dj3n.dev@gmail.com)
 
 👀 Check my : 
 - [Portfolio](https://if3.projets/wad/24/jenny)
@@ -40,11 +40,11 @@ I'm Jenny and I'm a Junior Web Developer.
 
 ### Projects:
 - 🎲 Php/Symfony:
-  [website](http://wad02.interface3.be/)
+  [website](http://wad02.interface3.be/) /
   [repo](https://github.com/Dj3ni/I3_ProjetSymphony)
 
 - 🍃 Hackaton Team "Green Hiro":
-  [website](http://wad02.interface3.be/)
+  [website](http://wad02.interface3.be/) /
   [repo](https://github.com/Dj3ni/Hackaton)
 
 ## 💻 Tech Stack:
