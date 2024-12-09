@@ -82,7 +82,7 @@ SqlServer
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Dj3ni&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![Dj3ni's Stats](https://github-readme-stats.vercel.app/api?username=Dj3ni&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Dj3ni&theme=dark&hide_border=false)
 
 
