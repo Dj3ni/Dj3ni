@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there [👋](https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif)
 
 I'm Jenny and I'm a Junior Web Developer. 
 - 🌱 I’m currently learning at the formation center Interface 3 and will finish my scholarship in june 2025.
