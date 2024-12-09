@@ -48,7 +48,8 @@ I'm Jenny and I'm a Junior Web Developer.
   [repo](https://github.com/Dj3ni/Hackaton)
 
 ## 💻 Tech Stack:
-![](https://github-readme-stats.vercel.app/api?username=Dj3ni&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dj3ni&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 ### My favorite technologies (for now)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=plastic&logo=symfony&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
@@ -81,9 +82,9 @@ SqlServer
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white)
 
 # 📊 GitHub Stats:
-
+![](https://github-readme-stats.vercel.app/api?username=Dj3ni&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Dj3ni&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dj3ni&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
