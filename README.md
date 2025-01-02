@@ -17,9 +17,10 @@ I'm Jenny and I'm a Junior Web Developer.
       ],
     "aboutMe" : "I grew-up among nerds but always thought coding wasn't for me.
                 I'v never been so wrong in my life: once I started with a few tutos,
-                I discovered I was made for it! I find myself so happy coding, debugging, learning, debugging..."
+                I discovered I was made for it! I find myself so happy coding, debugging, learning, debugging, trying, debugging..."
 
     "learning_besties": [
+        "grafikart",
         "wiki's",
         "google",
         "stack overflow",
