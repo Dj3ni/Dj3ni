@@ -37,7 +37,7 @@ I'm Jenny and I'm a Junior Web Developer.
 
 👀 Check my : 
 - [Portfolio](https://dj3ni.github.io/i3_Portfolio/) (work in progress, only html, css, js)
-- [Dés-mentiel, my boardgame website](https://desmentiel.be): ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=plastic&logo=WordPress&logoColor=white)
+- [Dés-mentiel](https://desmentiel.be) (My boardgame website): ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=plastic&logo=WordPress&logoColor=white)
 
 ### Projects:
 - 🎲 Php/Symfony:
@@ -47,6 +47,9 @@ I'm Jenny and I'm a Junior Web Developer.
 - 🍃 Hackaton Team "Green Hiro":
   [website](http://wad02.interface3.be/) /
   [repo](https://github.com/Dj3ni/Hackaton)
+  
+- C# / Asp .Net Core Web Api:
+  [repo](https://github.com/Dj3ni/Disneydle)
 
 ## 💻 Tech Stack:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dj3ni&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
