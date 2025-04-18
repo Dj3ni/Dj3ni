@@ -8,7 +8,7 @@ I'm Jenny and I'm a Junior Web Developer.
 {
     "firstname": "Jenny",
     "pseudo" : "Dj3ni",
-    "IT_crush" : "php",
+    "IT_crush" : "php, .Net",
     "IT_education" : "Interface 3 : Web Application Developper",
     "interests" : [
           "boardgames",
@@ -45,7 +45,7 @@ I'm Jenny and I'm a Junior Web Developer.
   [repo](https://github.com/Dj3ni/I3_ProjetSymphony)
 
 - 🍃 Hackaton Team "Green Hiro":
-  [website](http://wad02.interface3.be/) /
+  [website]() /
   [repo](https://github.com/Dj3ni/Hackaton)
   
 - C# / Asp .Net Core Web Api:
