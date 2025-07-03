@@ -40,7 +40,7 @@ I'm Jenny and I'm a Junior Web Developer.
 - [Dés-mentiel](https://desmentiel.be) (My boardgame website): ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=plastic&logo=WordPress&logoColor=white)
 
 ### Projects:
-- 🎲 Php/Symfony:
+- 🎲 Php / Symfony:
   [website](http://wad02.interface3.be/) /
   [repo](https://github.com/Dj3ni/I3_ProjetSymphony)
 
@@ -48,12 +48,13 @@ I'm Jenny and I'm a Junior Web Developer.
   [website](https://green-hiro.vercel.app/) /
   [repo](https://github.com/Dj3ni/Hackaton)
   
-- 🏰 C#/Asp .Net Core Web Api "Disneydle":
+- 🏰 C# / Asp .Net Core Web Api "Disneydle":
   [repo](https://github.com/Dj3ni/Disneydle)
 
-- 🚍 Internship Project at TEC – SAE Team:[repo](https://github.com/Dj3ni/Internship2025)
+- 🚍 Internship Project at TEC – SAE Team:
+  [repo](https://github.com/Dj3ni/Internship2025)
   Internal tool to display daily trip statistics  
-  *Stack:* React / Symfony / API Platform / PHPSpreadsheet (Excel export) 
+  *Stack:* React / Symfony / API Platform / PHPSpreadsheet (Excel export) / MUI Component
 
 ## 💻 Tech Stack Highlights
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dj3ni&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
