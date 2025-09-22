@@ -18,7 +18,7 @@ I'm Jenny and I'm a Junior Web Developer.
         "learning"
     ],
     "aboutMe" : "I grew up among nerds but thought coding wasn't for me... until I tried!
-    I instantly fell in love with development — I feel right at home writing code, debugging, and always learning more.",
+    I instantly fell in love with development: I feel right at home writing code, debugging, and always learning more.",
     "learning_besties": [
         "Grafikart",
         "Wikis",
@@ -84,6 +84,7 @@ SqlServer
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel?style=plastic&logo=laravel&logoColor=red&label=Laravel&labelColor=white)
 
 ### Extras
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white)
