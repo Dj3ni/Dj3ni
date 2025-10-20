@@ -36,6 +36,7 @@ I'm Jenny and I'm a Junior Web Developer.
 - [mail](dj3n.dev@gmail.com)
 
 👀 Check out : 
+- [CV](https://dj3ni.github.io/CV/Cv-En.pdf)
 - [Portfolio](https://dj3ni.github.io/i3_Portfolio/) (Only html, css, js)
 - [Dés-mentiel](https://desmentiel.be) (My boardgame website): ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=plastic&logo=WordPress&logoColor=white)
 
