@@ -42,7 +42,7 @@ I'm Jenny and I'm a Junior Web Developer.
 
 ### Projects:
 - 🎲 Php / Symfony:
-  [website](http://wad02.interface3.be/) /
+  [website]/
   [repo](https://github.com/Dj3ni/I3_ProjetSymphony)
 
 - 🍃 Hackaton Team "Green Hiro":
