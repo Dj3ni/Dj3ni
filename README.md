@@ -50,8 +50,8 @@ I'm Jenny and I'm a Junior Web Developer.
   [repo](https://github.com/Dj3ni/Hackaton)
   
 - 🏰 C# / Asp .Net Core Web Api "Disneydle":
-  [repo](https://github.com/Dj3ni/Disneydle)
-  [website front only](https://disneydle.vercel.app/)
+  [repo](https://github.com/Dj3ni/Disneydle)  / 
+  [website, front only](https://disneydle.vercel.app/)
 
 - 🚍 Internship Project at TEC – SAE Team:
   [repo](https://github.com/Dj3ni/Internship2025)
