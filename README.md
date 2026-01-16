@@ -10,7 +10,7 @@ I'm Jenny and I'm a Junior Web Developer.
     "firstname": "Jenny",
     "pseudo" : "Dj3ni",
     "IT_crush" : ["PHP", ".NET"],
-    "IT_education" : "Interface3 : Web Application Developer (2023-2025)",
+    "IT_education" : "Interface3 : Web Application Developer (2024-2025)",
     "internship" : "TEC – SAE Team | Front & Back (React/Symfony/API Platform)",
     "interests" : [
         "boardgames",
@@ -20,11 +20,11 @@ I'm Jenny and I'm a Junior Web Developer.
     "aboutMe" : "I grew up among nerds but thought coding wasn't for me... until I tried!
     I instantly fell in love with development: I feel right at home writing code, debugging, and always learning more.",
     "learning_besties": [
-        "Grafikart",
+        "Grafikart, my savior",
         "Wikis",
         "Google",
-        "Stack Overflow",
-        "ChatGPT (used with caution)"
+        "AI",
+        "Stack Overflow / Reddit"
     ]
 }
 
@@ -58,13 +58,18 @@ I'm Jenny and I'm a Junior Web Developer.
   Internal tool to display daily trip statistics  
   *Stack:* React / Symfony / API Platform / PHPSpreadsheet (Excel export) / MUI Component
 
+- Wordpress websites for relatives (in progress):
+  * Aether theme, Yoast Seo, Kadence Blocks, WPForm
+  * Astra theme, Yoast Seo, WPForm, Wappointment, The events calendar
+- Boardgame application using Angular / Laravel in collaboration with friends dev (in progress)
+
 ## 💻 Tech Stack Highlights
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dj3ni&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### Languages & Frameworks I love working with:
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white)
 ![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=plastic&logo=symfony&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
 
 ### Databases & Tools:
@@ -72,13 +77,15 @@ I'm Jenny and I'm a Junior Web Developer.
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white)
 ![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-%23E8491D.svg?style=plastic&logo=phpmyadmin&logoColor=white)
 
+
 ### Also comfortable with:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white)
-![SqlServer](https://img.shields.io/badge/sqlserver?style=plastic&logo=sqlserver&logoColor=white)
-SqlServer
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=plastic&logo=microsoftsqlserver&logoColor=white)
+
 
 ### Currently learning / improving:
 ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=plastic&logo=angularjs&logoColor=white)
@@ -86,7 +93,9 @@ SqlServer
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel?style=plastic&logo=laravel&logoColor=red&label=Laravel&labelColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=plastic&logo=laravel&logoColor=white)
+![Pimcore](https://img.shields.io/badge/pimcore-6428B4?style=plastic&logo=pimcore&logoColor=white)
+
 
 ### Extras
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white)
