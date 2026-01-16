@@ -20,7 +20,7 @@ I love turning ideas into clean, maintainable code and continuously learning new
     "learning"
   ],
   "aboutMe": "I grew up among nerds but thought coding wasn't for me... until I tried!\n
-                I instantly fell in love with development: I feel right at home writing code, debugging, and always learning more.",
+    I instantly fell in love with development: I feel right at home writing code, debugging, and always learning more.",
   "learning_besties": [
     "Grafikart",
     "Wikis",
@@ -29,7 +29,6 @@ I love turning ideas into clean, maintainable code and continuously learning new
     "Stack Overflow / Reddit"
   ]
 }
-
 
 ```
 
@@ -115,8 +114,9 @@ I love turning ideas into clean, maintainable code and continuously learning new
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=plastic&logo=azure-devops&logoColor=white)
 
 # 📊 GitHub Stats:
-![Dj3ni's Stats](https://github-readme-stats.vercel.app/api?username=Dj3ni&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)  
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dj3ni&theme=dark&hide_border=false)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Dj3ni&theme=dark&border_radius=5&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
 
 
 
