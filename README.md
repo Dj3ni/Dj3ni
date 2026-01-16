@@ -1,32 +1,35 @@
 # Hi there 👋
 
-I'm Jenny and I'm a Junior Web Developer. 
-- ✅ I just finished an intensive 15-month full-stack training at Interface3 (Brussels).
-- 🎓 I recently completed a 2-month internship at TEC (team SAE - Embedded Applications).
-- 🔍 I'm now actively looking for my first job opportunity in web development!
+I'm **Jenny (Dj3ni)**, a Junior Web Developer passionate about building full-stack web applications.  
+I love turning ideas into clean, maintainable code and continuously learning new technologies.  
+
+- ✅ Completed a 15-month intensive Full-Stack training at **Interface3 (Brussels)**  
+- 🎓 Recently finished a 2-month internship at **TEC – SAE Team** (React / Symfony / API Platform)  
+- 🔍 Actively looking for my first professional opportunity in **web development**
 
 ```
 {
-    "firstname": "Jenny",
-    "pseudo" : "Dj3ni",
-    "IT_crush" : ["PHP", ".NET"],
-    "IT_education" : "Interface3 : Web Application Developer (2024-2025)",
-    "internship" : "TEC – SAE Team | Front & Back (React/Symfony/API Platform)",
-    "interests" : [
-        "boardgames",
-        "coding",
-        "learning"
-    ],
-    "aboutMe" : "I grew up among nerds but thought coding wasn't for me... until I tried!
-    I instantly fell in love with development: I feel right at home writing code, debugging, and always learning more.",
-    "learning_besties": [
-        "Grafikart, my savior",
-        "Wikis",
-        "Google",
-        "AI",
-        "Stack Overflow / Reddit"
-    ]
+  "firstname": "Jenny",
+  "pseudo": "Dj3ni",
+  "IT_crush": ["PHP", ".NET"],
+  "IT_education": "Interface3 : Web Application Developer (2024-2025)",
+  "internship": "TEC – SAE Team | Front & Back (React/Symfony/API Platform)",
+  "interests": [
+    "boardgames",
+    "coding",
+    "learning"
+  ],
+  "aboutMe": "I grew up among nerds but thought coding wasn't for me... until I tried!\n
+                I instantly fell in love with development: I feel right at home writing code, debugging, and always learning more.",
+  "learning_besties": [
+    "Grafikart",
+    "Wikis",
+    "Google",
+    "AI",
+    "Stack Overflow / Reddit"
+  ]
 }
+
 
 ```
 
@@ -58,25 +61,22 @@ I'm Jenny and I'm a Junior Web Developer.
   Internal tool to display daily trip statistics  
   *Stack:* React / Symfony / API Platform / PHPSpreadsheet (Excel export) / MUI Component
 
-- Wordpress websites for relatives (in progress):
-  * Aether theme, Yoast Seo, Kadence Blocks, WPForm
-  * Astra theme, Yoast Seo, WPForm, Wappointment, The events calendar
-- Boardgame application using Angular / Laravel in collaboration with friends dev (in progress)
+### WordPress / In Progress
+- Personal / family websites (Aether, Astra themes; Yoast SEO, WPForms, Kadence Blocks)  
+- Angular + Laravel boardgame application (collaboration project)
+
+## ⚡ Fun Fact
+- Boardgame addict & coding night owl  
+- Always learning, always building, always experimenting
 
 ## 💻 Tech Stack Highlights
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dj3ni&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### Languages & Frameworks I love working with:
+### Languages & Frameworks I love working with and continue to improve:
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white)
 ![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=plastic&logo=symfony&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
-
-### Databases & Tools:
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=mariadb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white)
-![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-%23E8491D.svg?style=plastic&logo=phpmyadmin&logoColor=white)
-
 
 ### Also comfortable with:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
@@ -84,14 +84,21 @@ I'm Jenny and I'm a Junior Web Developer.
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white)
+
+### Databases & Tools:
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=mariadb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white)
+![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-%23E8491D.svg?style=plastic&logo=phpmyadmin&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=plastic&logo=microsoftsqlserver&logoColor=white)
 
+### My exploration with Data
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=plastic&logo=pandas&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
+![Azure Data Factory](https://img.shields.io/badge/Azure_Data_Factory-0078D7?style=plastic&logo=azure&logoColor=white)
 
 ### Currently learning / improving:
 ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=plastic&logo=angularjs&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=plastic&logo=laravel&logoColor=white)
 ![Pimcore](https://img.shields.io/badge/pimcore-6428B4?style=plastic&logo=pimcore&logoColor=white)
@@ -105,10 +112,12 @@ I'm Jenny and I'm a Junior Web Developer.
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=plastic&logo=azure-devops&logoColor=white)
 
 # 📊 GitHub Stats:
 ![Dj3ni's Stats](https://github-readme-stats.vercel.app/api?username=Dj3ni&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)  
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dj3ni&theme=dark&hide_border=false)
+
 
 
 
