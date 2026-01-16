@@ -115,7 +115,7 @@ I love turning ideas into clean, maintainable code and continuously learning new
 
 # 📊 GitHub Stats:
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Dj3ni?cardType=github&theme=dark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)![GitHub Streak](https://streak-stats.demolab.com?user=Dj3ni&theme=dark&border_radius=5&date_format=j%20M%5B%20Y%5D)
-[![Languages](https://awesome-github-stats.azurewebsites.net/languages-card/Dj3ni?theme=dark)](https://git.io/awesome-stats-card)
+
 
 
 
