@@ -32,7 +32,7 @@ I love turning ideas into clean, maintainable code and continuously learning new
 
 ```
 
-## 🌐 Socials and Websites:
+## 🌐 Socials and Projects:
 📧 Reach me: 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jenny-fernandez-garcia/) 
 - [mail](dj3n.dev@gmail.com)
@@ -44,29 +44,42 @@ I love turning ideas into clean, maintainable code and continuously learning new
 
 ### Projects:
 - 🎲 Php / Symfony:
-  [website]/
-  [repo](https://github.com/Dj3ni/I3_ProjetSymphony)
+  *Boardgame events app* <br>
+  *Stack:* Symfony / Webpack <br>
+  👉 [repo](https://github.com/Dj3ni/I3_ProjetSymphony) 
 
 - 🍃 Hackaton Team "Green Hiro":
-  [website](https://green-hiro.vercel.app/) /
-  [repo](https://github.com/Dj3ni/Hackaton)
+  *Narrative game about Green It* <br>
+  *Stack:* Front : Ts / React, Back: Symfony, Api Platform <br>
+  👉 [repo](https://github.com/Dj3ni/Hackaton) /
+  [website](https://green-hiro.vercel.app/) 
   
 - 🏰 C# / Asp .Net Core Web Api "Disneydle":
-  [repo](https://github.com/Dj3ni/Disneydle)  / 
+  *Personal project in collaboration with a frontend dev, quiz game about Disney* <br>
+  *Stack:* Front : Js / React, Back: WebApi.Net, SqlServer <br>
+  👉 [repo](https://github.com/Dj3ni/Disneydle) /
   [website, front only](https://disneydle.vercel.app/)
 
 - 🚍 Internship Project at TEC – SAE Team:
-  [repo](https://github.com/Dj3ni/Internship2025)
-  Internal tool to display daily trip statistics  
-  *Stack:* React / Symfony / API Platform / PHPSpreadsheet (Excel export) / MUI Component
+  *Internal tool to display daily trip statistics*  <br>
+  *Stack:* React / Symfony / API Platform / PHPSpreadsheet (Excel export) / MUI Component <br>
+  👉 [repo](https://github.com/Dj3ni/Internship2025)
 
-### WordPress / In Progress
-- Personal / family websites (Aether, Astra themes; Yoast SEO, WPForms, Kadence Blocks)  
+### WordPress
+- Cottage Website:
+  *Real-world website built with a focus on performance, maintainability and mobile-first UX* <br>
+  *Stack:* Yoast SEO / WPForms/ Kadence Blocks <br>
+  👉 [Case study repository] /
+  [live website](https://www.lesgites-gobinponcin.be/)
+  
+- Personal / family websites
+ 
+### In Progress
 - Angular + Laravel boardgame application (collaboration project)
 
 ## ⚡ Fun Fact
 - Boardgame addict & coding night owl  
-- Always learning, always building, always experimenting
+- Always learning, building and experimenting
 
 ## 💻 Tech Stack Highlights
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dj3ni&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
