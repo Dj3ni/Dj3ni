@@ -82,7 +82,7 @@ I love turning ideas into clean, maintainable code and continuously learning new
 - Always learning, building and experimenting
 
 ## 💻 Tech Stack Highlights
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dj3ni&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dj3ni&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### Languages & Frameworks I love working with and continue to improve:
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white)
@@ -127,7 +127,8 @@ I love turning ideas into clean, maintainable code and continuously learning new
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=plastic&logo=azure-devops&logoColor=white)
 
 # 📊 GitHub Stats:
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Dj3ni?cardType=github&theme=dark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)![GitHub Streak](https://streak-stats.demolab.com?user=Dj3ni&theme=dark&border_radius=5&date_format=j%20M%5B%20Y%5D)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Dj3ni?cardType=github&theme=dark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Dj3ni&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 
 
