@@ -69,7 +69,7 @@ I love turning ideas into clean, maintainable code and continuously learning new
 - Cottage Website:
   *Real-world website built with a focus on performance, maintainability and mobile-first UX* <br>
   *Stack:* Yoast SEO / WPForms/ Kadence Blocks <br>
-  👉 [Case study repository] /
+  👉 [Case study repository] (https://github.com/Dj3ni/GitesGobinPoncin) /
   [live website](https://www.lesgites-gobinponcin.be/)
   
 - Personal / family websites
