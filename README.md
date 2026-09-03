@@ -1,32 +1,30 @@
 # Hi there 👋
 
-I'm **Jenny (Dj3ni)**, a Junior Web Developer passionate about building full-stack web applications.  
-I love turning ideas into clean, maintainable code and continuously learning new technologies.  
+I'm Jenny (Dj3ni), a Backend Web Developer working with PHP, Symfony and Pimcore. 
+I like turning messy requirements into robust, clean, maintainable code — and I'm still the type to fall down a rabbit hole learning something new (or trying to improve a feature).
 
-- ✅ Completed a 15-month intensive Full-Stack training at **Interface3 (Brussels)**  
-- 🎓 Recently finished a 2-month internship at **TEC – SAE Team** (React / Symfony / API Platform)  
-- 🔍 Actively looking for my first professional opportunity in **web development**
+💼 Currently a Backend Developer at Apik (Braine-l'Alleud) — PHP / Symfony / Pimcore, production support & private Composer packages
+✅ Trained at Interface3 (Brussels) — 15-month intensive Full-Stack program
+
+🎲 Also run two side activities: DevNest, my freelance development practice (2 clients so far), and Dés-mentiel, my boardgame-events business running since 2022
 
 ```
 {
   "firstname": "Jenny",
   "pseudo": "Dj3ni",
-  "IT_crush": ["PHP", ".NET"],
+  "role": "Backend Web Developer",
+  "current": "Apik | PHP / Symfony / Pimcore",
+  "IT_crush": ["PHP", "Symfony", ".NET"],
   "IT_education": "Interface3 : Web Application Developer (2024-2025)",
-  "internship": "TEC – SAE Team | Front & Back (React/Symfony/API Platform)",
-  "interests": [
-    "boardgames",
-    "coding",
-    "learning"
-  ],
+  "interests": ["boardgames", "coding", "learning"],
   "aboutMe": "I grew up among nerds but thought coding wasn't for me... until I tried!\n
     I instantly fell in love with development: I feel right at home writing code, debugging, and always learning more.",
   "learning_besties": [
+    "Claude, Cursor",
     "Grafikart",
     "Wikis",
     "Google",
-    "AI",
-    "Stack Overflow / Reddit"
+    "Stack Overflow"
   ]
 }
 
@@ -43,27 +41,28 @@ I love turning ideas into clean, maintainable code and continuously learning new
 - [Dés-mentiel](https://desmentiel.be) (My boardgame website): ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=plastic&logo=WordPress&logoColor=white)
 
 ### Projects:
-- 🎲 Php / Symfony:
-  *Boardgame events app* <br>
-  *Stack:* Symfony / Webpack <br>
-  👉 [repo](https://github.com/Dj3ni/I3_ProjetSymphony) 
+
+- 🚍 Internship Project at TEC – SAE Team:
+  *Internal tool to display daily trip statistics*  <br>
+  *Stack:* React / Symfony / API Platform / PHPSpreadsheet (Excel export) / MUI Component <br>
+  👉 [repo](https://github.com/Dj3ni/Internship2025)
 
 - 🍃 Hackaton Team "Green Hiro":
   *Narrative game about Green It* <br>
   *Stack:* Front : Ts / React, Back: Symfony, Api Platform <br>
   👉 [repo](https://github.com/Dj3ni/Hackaton) /
-  [website](https://green-hiro.vercel.app/) 
+  [website](https://green-hiro.vercel.app/)
+
+- 🎲 Php / Symfony:
+  *Boardgame events app* <br>
+  *Stack:* Symfony / Webpack <br>
+  👉 [repo](https://github.com/Dj3ni/I3_ProjetSymphony) 
   
 - 🏰 C# / Asp .Net Core Web Api "Disneydle":
   *Personal project in collaboration with a frontend dev, quiz game about Disney* <br>
   *Stack:* Front : Js / React, Back: WebApi.Net, SqlServer <br>
   👉 [repo](https://github.com/Dj3ni/Disneydle) /
   [website, front only](https://disneydle.vercel.app/)
-
-- 🚍 Internship Project at TEC – SAE Team:
-  *Internal tool to display daily trip statistics*  <br>
-  *Stack:* React / Symfony / API Platform / PHPSpreadsheet (Excel export) / MUI Component <br>
-  👉 [repo](https://github.com/Dj3ni/Internship2025)
 
 ### WordPress
 - Cottage Website:
