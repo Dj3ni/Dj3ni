@@ -41,6 +41,9 @@ I like turning messy requirements into robust, clean, maintainable code — and 
 - [Dés-mentiel](https://desmentiel.be) (My boardgame website): ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=plastic&logo=WordPress&logoColor=white)
 
 ### Projects:
+- 🏓 CTT Ottignies - Blocry:
+  *Contributed to stabilise and test the app* <br>
+  *Stack:* Laravel / Pest / MariaDB
 
 - 🚍 Internship Project at TEC – SAE Team:
   *Internal tool to display daily trip statistics*  <br>
